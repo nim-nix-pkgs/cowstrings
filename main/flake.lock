@@ -42,11 +42,11 @@
     "src-cowstrings-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1651051177,
-        "narHash": "sha256-by6ejUTh5VVi0cwBEpn1a3YFpKrIUBa/At6P0IH3Ufo=",
+        "lastModified": 1651820811,
+        "narHash": "sha256-rdWnSLAnRdX+lNjA4xfj/GqV/Auq3GAXAcIToOxuEnM=",
         "owner": "planetis-m",
         "repo": "cowstrings",
-        "rev": "ada777430fa9c9ec75ecbd69ab0e24d7d42d67f9",
+        "rev": "5f7146d85067b19c478395ac86ad506db44854d3",
         "type": "github"
       },
       "original": {
